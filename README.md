@@ -75,6 +75,7 @@ dsh plugin --profile web add file:/data/data/com.termux/files/home/dsh-plugins-s
 - [240xu/dsh-termux-setup](https://github.com/240xu/dsh-termux-setup) — Termux 一键安装 DSH + 全部兼容补丁
 - [240xu/dsh-zcode-agent](https://github.com/240xu/dsh-zcode-agent) — ZCode agent preset（官方开源移植 + 逆向存档双分支）
 - [240xu/verdict-engine](https://github.com/240xu/verdict-engine) — 可机器校验的工程治理规范 + dsh-themis 插件
+- [240xu/dsh-inspector-src](https://github.com/240xu/dsh-inspector-src) — 官方 `@deepseek-ai/dsh-experimental-inspector` / `inspector-profile` / `session-inspector` 源码镜像（`dsh-v0.2.1-rc.2`），用于本地排障与日志定位；不是 `dsh plugin add` 安装包。
 - [240xu/awesome-dsh-plugin](https://github.com/240xu/awesome-dsh-plugin) — DSH 插件精选列表（fork）
 
 ## 5 · 安装通用说明（双端）
